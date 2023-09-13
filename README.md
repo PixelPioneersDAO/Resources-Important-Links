@@ -9,6 +9,12 @@ Here are some usefull links to research paper which can help to understand about
 - [this paper provides idea about the relationship between tech and health](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03713-9)
 - https://link.springer.com/article/10.1007/s11920-019-1017-0
 
+### DataSet
+ - [BurnOut Dataset](https://www.kaggle.com/datasets/blurredmachine/are-your-employees-burning-out?select=train.csv)
+
+### Notebook
+ - [Burnout prediction](https://www.kaggle.com/code/asanchezhernandez/employee-burnout-eda-and-prediction)
+
 
 
 
