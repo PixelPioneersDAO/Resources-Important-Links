@@ -14,7 +14,10 @@ Here are some usefull links to research paper which can help to understand about
 - [Depression](https://sci-hub.se/10.1109/BIGCOMP.2016.7425918)
 - [ml in mental health](https://sci-hub.se/https://doi.org/10.1017/S0033291719000151)
 - [overal ml approach](https://link.springer.com/article/10.1007/s42979-022-01613-z#:~:text=Data%20Visualization&text=The%20highest%20percentage%20of%20employees,companies%20with%201%E2%80%935%20employees.)
- - [depression with ml](https://sci-hub.se/10.1016/j.compbiomed.2021.104499)
+- [depression with ml](https://sci-hub.se/10.1016/j.compbiomed.2021.104499)
+- [PErsonality](https://sci-hub.se/10.1109/MIS.2017.23)
+- [text classification methods](https://medium.com/text-classification-algorithms/text-classification-algorithms-a-survey-a215b7ab7e2d)
+- [same as above](https://sci-hub.se/10.3390/info10040150)
 
 ### DataSet
 
